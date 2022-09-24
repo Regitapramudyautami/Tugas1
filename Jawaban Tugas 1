@@ -1,0 +1,39 @@
+NAMA      :REGITA PRAMUDYA UTAMI
+NPM       :062040830527
+NO. ABSEN :12
+KELAS     :5MIO
+
+1. Apa itu Git dan kegunaanya?
+Jawaban :
+GIT adalah sebuah version control system yang telah digunakan oleh para developer untuk dapat mengembangkan software secara bersamaan.
+GIT digunakan untuk distributed revision (VCS terdistribusi), hal ini bertujuan untuk menyimpan database tidak hanya ke satu tempat. 
+
+2. Apa itu Github dan kegunaanya?
+Jawaban :
+GitHub adalah layanan host web bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem kendali versi Git dan layanan hosting internet.
+GitHub digunakan untuk menyimpan source code untuk suatu proyek dan melacak riwayat lengkap semua perubahan kode itu.Ini memungkinkan pengguna untuk 
+berkolaborasi dalam proyek secara lebih efektif dengan menyediakan alat untuk mengelola perubahan yang mungkin bertentangan dari beberapa pengembang.
+
+3. Sebutkan istilah-istilah yang ada di Git dan jelaskan masing-masing istilah tersebut?
+Jawaban :
+a. Repository adalah Database yang menyimpan history atau riwayat perubahan
+b. Snapshot adalah potret kondisi file dan folder pada saat tertentu
+c. Commit adalah snapshot yang disimpan direpository
+d. Branch adalah serangkaian commit yang berkaitan sehingga kalau digambar seperti garis lurus berisi banyak commit.
+e. Master adalah nama branch default yang diberikan git pada waktu kita membuat repostitory
+f. Working folder adalah folder yang berisi file dan folder tempat kita bekerja
+g. Staging area adalah snapshot dari working folder yang akan kita simpan pada saat commit
+h. Object store adalah database tempat semua commit disimpan
+
+4. Sebutkan layanan selain github?
+Jawaban :
+- SourceForge 
+- CodePlex 
+- BitBucket 
+- GitLab 
+- BeanStalk 
+- Google Cloud Source 
+- Codeplane
+- Buddy
+- Gitbucket
+- Gitea
